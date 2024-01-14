@@ -706,10 +706,11 @@ h6 {
 
 .main-nav__one .main-nav__main-navigation {
 	margin-left: auto;
+	width: 100%;
 	display: -webkit-box;
 	display: flex;
 	-webkit-box-pack: center;
-	justify-content: center;
+	justify-content: end;
 	-webkit-box-align: center;
 	align-items: center;
 }
@@ -863,6 +864,8 @@ h6 {
 	display: flex;
 	-webkit-box-align: center;
 	align-items: center;
+	justify-content: end;
+	width: 250px;
 }
 
 .main-nav__right .main-nav__phone {
