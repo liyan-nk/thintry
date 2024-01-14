@@ -48,7 +48,7 @@ font-family: 'Gilroy-ExtraBold';*/
 	--special-font-light: 'Gilroy-Light';
 	--special-font-bold: 'Gilroy-Bold';
 	--special-font-smb: 'Gilroy-SemiBold';
-	--thm-base: #ff57a4;
+	--thm-base: #4abc8b;
 	--thm-base-rgb: 255, 87, 164;
 	--thm-primary: #4275ff;
 	--thm-primary-rgb: 66, 117, 255;
@@ -689,7 +689,7 @@ h6 {
 
 .site-header-one {
 	position: absolute;
-	top: 85px;
+	top: 30px;
 	left: 0;
 	width: 100%;
 	z-index: 91;
